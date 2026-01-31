@@ -27,7 +27,6 @@ JSP와 MySQL을 연동하여 구현한 쇼핑몰 웹 애플리케이션 프로�
 - **Database** : MySQL
 - **Server** : Apache Tomcat
 - **Language** : Java
-- **Tool** : Eclipse / Android Studio (SQL 관리)
 
 ---
 
@@ -90,7 +89,7 @@ SSG-JSP-ShoppingMall
 
 ---
 
-## 🙋‍♀️ 담당 역할
+## 구현 범위
 
 - DB 테이블 설계 및 SQL 작성
 - JSP 페이지 구조 설계
